@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjali0981
 - 👀 I’m interested in Exploring
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning PHP
 - 💬 Ask me about front-end web development
 - 📝 I regularly post on https://www.linkedin.com/in/anjali-kumari-567687177
 - 📫 How to reach me https://www.linkedin.com/in/anjali-kumari-567687177
